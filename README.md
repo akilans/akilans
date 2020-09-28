@@ -1,4 +1,4 @@
-### Hi there 👋
+[![HitCount](http://hits.dwyl.com/akilans/akilans.svg)](http://hits.dwyl.com/akilans/akilans)
 
 ## <p align="center"><a href="http://akilans.github.io/">Akilan Subramanian</a></p>
 
@@ -7,11 +7,6 @@
 ### <p align="center">DevOps Architect</p>
 
 I am Akilan, DevOps guy. I have over 9 years of experience in all phases of the software development life cycle, which includes software analysis, design, development, testing, implementation, debugging, maintenance and documentation. I am passionate about learning new technologies, methodologies, languages and automation.
-
-
-### Skills
-
-
 
 ### Certifications
 
