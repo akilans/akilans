@@ -1,4 +1,5 @@
 [![HitCount](http://hits.dwyl.com/akilans/akilans.svg)](http://hits.dwyl.com/akilans/akilans)
+![](https://komarev.com/ghpvc/?username=akilans)
 
 ## <p align="center"><a href="http://akilans.github.io/">Akilan Subramanian</a></p>
 
