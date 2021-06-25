@@ -22,7 +22,7 @@ I am Akilan, DevOps guy. I have over 9 years of experience in all phases of the 
 ### Connect With me 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akilans/"><img src="https://www.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" width="60" height="60" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/akilans/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" width="60" height="60" alt="LinkedIn"></a>
   &nbsp; &nbsp;
   <a href="http://akilans.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" height="70" alt="Profile"></a>
   &nbsp; &nbsp;
