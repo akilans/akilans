@@ -21,11 +21,11 @@ I am Akilan, DevOps guy. I have over 10 years of experience in all phases of the
 
 ### Github Data
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akilans&show_icons=true&locale=en&layout=compact" alt="akilans" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akilans&show_icons=true&locale=en&layout=compact" alt="akilans" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akilans&show_icons=true&locale=en" alt="akilans" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=akilans&show_icons=true&locale=en" alt="akilans" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akilans&" alt="akilans" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akilans&" alt="akilans" /></p>
 
 
 ### Connect With me 
