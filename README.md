@@ -6,16 +6,27 @@
 
 ### <p align="center">DevOps Architect</p>
 
-I am Akilan, DevOps guy. I have over 10 years of experience in all phases of the software development life cycle, which includes software analysis, design, development, testing, implementation, debugging, maintenance and documentation. I am passionate about learning new technologies, methodologies, languages and automation.
+Hi there, I'm a DevOps Engineer with over 12 years of practical experience, focusing on Docker, Kubernetes, AWS, Python, and Golang. I have a deep appreciation for open-source software and find joy in the ongoing journey of learning and adopting new technologies
 
 ### Certifications
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_cka.png" alt="Certified Kubernetes Administrator"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_cka.png" alt="Certified Kubernetes Administrator" width="100px" ></a>
   &nbsp; &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_ckad.png" alt="Certified Kubernetes Application Developer"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_ckad.png" alt="Certified Kubernetes Application Developer" width="100px"></a>
   &nbsp; &nbsp;
-   <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_gcp.png" alt="Google Cloud Associate Engineer"></a>
+   <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/oci_foundation.png" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="100px"></a>
+  &nbsp; &nbsp;
+</p>
+
+
+### Badges
+
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/eks.png" alt="AWS Knowledge: Amazon EKS" width="100px" ></a>
+  &nbsp; &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/aws-essentials.png" alt="AWS Knowledge: Cloud Essentials" width="100px"></a>
+  &nbsp; &nbsp;
   &nbsp; &nbsp;
 </p>
 
