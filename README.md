@@ -36,7 +36,7 @@ Hi there, I'm a DevOps Engineer with over 12 years of practical experience, focu
 
 <img src="https://github-readme-stats.vercel.app/api?username=akilans&show_icons=true&locale=en" alt="akilans" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akilans&" alt="akilans" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=akilans&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 ### Connect With me 
