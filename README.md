@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakilans&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=akilans)
 
 ## <p align="center"><a href="http://akilans.github.io/">Akilan Subramanian</a></p>
 
@@ -15,7 +15,7 @@ Hi there, I'm a DevOps Engineer with over 12 years of practical experience, focu
   &nbsp; &nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_ckad.png" alt="Certified Kubernetes Application Developer" width="100px"></a>
   &nbsp; &nbsp;
-   <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/oci_foundation.png" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="100px"></a>
+   <a href="#"><img src="https://raw.githubusercontent.com/akilans/akilans.github.io/master/images/logo_cka.png" alt="Certified Kubernetes Security Specialist" width="100px"></a>
   &nbsp; &nbsp;
 </p>
 
